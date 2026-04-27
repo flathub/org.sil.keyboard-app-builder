@@ -81,5 +81,5 @@ modules:
       - type: file
         only-arches:
           - x86_64
-        url: https://sil-app-builders-linux-artifacts.s3.amazonaws.com/refs/tags/v14.0/122/keyboard-app-builder.tgz
-        sha256: e79efa692bf5e00ed36363ef88168707b8599da398592bd1e332d28551d871b5
+        url: https://sil-app-builders-linux-artifacts.s3.amazonaws.com/master/123/keyboard-app-builder.tgz
+        sha256: 6cced7be63d69e4f65033ea01e4cd0022ffe385909df72a306ef834ccee353a1
